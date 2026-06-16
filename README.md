@@ -67,7 +67,7 @@ Each folder contains daily `.md` log files in the format `day-XX-YYYY-MM-DD.md`
 
 ## Connect
 [![GitHub](https://img.shields.io/badge/GitHub-github.com/alexisjasso11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexisjasso11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Jasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-ignaciojasso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Jasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-ignacio-jasso/)
 
 ---
 *Updated weekly throughout Summer 2026 internship*
