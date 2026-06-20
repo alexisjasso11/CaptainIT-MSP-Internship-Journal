@@ -22,13 +22,13 @@ I'm an IT student at California State University, San Bernardino studying Inform
 
 ---
 
-## MSP Toolstack
-Tools I'm working with daily at Captain IT:
+## MSP Skill Areas
+Categories of tools and systems I'm working with daily at Captain IT:
 
-![ConnectWise](https://img.shields.io/badge/ConnectWise-E2231A?style=for-the-badge&logoColor=white)
-![IT Glue](https://img.shields.io/badge/IT_Glue-FF6600?style=for-the-badge&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
-![Datto](https://img.shields.io/badge/Datto-00A99D?style=for-the-badge&logoColor=white)
+![PSA / Ticketing](https://img.shields.io/badge/PSA_%26_Ticketing-E2231A?style=for-the-badge&logoColor=white)
+![Documentation](https://img.shields.io/badge/IT_Documentation-FF6600?style=for-the-badge&logoColor=white)
+![Email & Collaboration](https://img.shields.io/badge/Email_%26_Collaboration-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-00A99D?style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
